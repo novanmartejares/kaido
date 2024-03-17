@@ -1,4 +1,4 @@
-# Kaido - Anime Streaming Website
+# papawatch - Anime Streaming Website
 ![image](https://github.com/Manj0tBenipal/kaido/assets/108014780/fb96dfe3-0a3a-4b95-9633-bd20509e7b84)
 
 
@@ -39,7 +39,7 @@ If you want to set up Kaido locally on your machine, follow these steps:
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/Manj0tBenipal/kaido.git
+   git clone https://github.com/novanmartejares/kaido.git
    cd kaido
    npm install
    npm run dev
